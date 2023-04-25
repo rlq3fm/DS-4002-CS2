@@ -13,3 +13,4 @@ This repository contains the files and information related to the final case stu
 ## Materials
 - Includes necessary materials for engaging with the case study.
 - These materials include articles providing background information to the problem at hand, as well as code and data resources.
+- The data can be found here: https://opendata.charlottesville.org/datasets/crime-data/explore. A link is also provided in the folder. 
